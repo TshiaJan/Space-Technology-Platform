@@ -3,7 +3,7 @@
 **Effective Date:** September 18, 2026  
 **Last Updated:** September 18, 2026  
 **Developer:** Tshiamo Jantjie  
-**Contact Email:** tshiajan@gmail.com  
+**Contact Email:** janaire.dev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-space-technology-privacy/
 
 ---
@@ -83,5 +83,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have questions, feedback, or concerns regarding this Privacy Policy, please contact:
 
 **Developer:** Tshiamo Jantjie  
-**Email:** tshiajan@gmail.com  
+**Email:** janaire.dev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-space-technology-privacy/
